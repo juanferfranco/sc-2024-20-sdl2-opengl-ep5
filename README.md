@@ -49,3 +49,7 @@ En particular, se muestran dos tipos de shaders: Vertex Shader y Fragment Shader
 ejecuta una vez por cada vértice que se renderiza en pantalla. El Fragment Shader se ejecuta una vez por 
 cada pixel que se renderiza en pantalla.
 
+![image](https://github.com/user-attachments/assets/24c7c7f3-9730-4dcb-97c2-8d042657954f)
+
+
+
