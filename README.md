@@ -43,3 +43,9 @@ los datos que se van a renderizar en pantalla, mientras que los VAO son los obje
 configuración de los VBOs o cómo acceder a los datos de los VBOs.
 
 ![image](https://github.com/user-attachments/assets/8ba2c36c-6009-4c59-be87-e2ed3f7d8aa9)
+
+En el episodio 7 se introduce el concept de shaders. Los shaders son programas que se ejecutan en la GPU. 
+En particular, se muestran dos tipos de shaders: Vertex Shader y Fragment Shader. El Vertex Shader se 
+ejecuta una vez por cada vértice que se renderiza en pantalla. El Fragment Shader se ejecuta una vez por 
+cada pixel que se renderiza en pantalla.
+
