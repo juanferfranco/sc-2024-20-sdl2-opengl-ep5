@@ -41,3 +41,5 @@ Vertex Array Object (VAO) y Vertex Buffer Object (VBO). Cada uno
 de estos objetos son fundamentales para poder renderizar un objeto en pantalla. Los VBO son realmente 
 los datos que se van a renderizar en pantalla, mientras que los VAO son los objetos que contienen la 
 configuración de los VBOs o cómo acceder a los datos de los VBOs.
+
+![image](https://github.com/user-attachments/assets/8ba2c36c-6009-4c59-be87-e2ed3f7d8aa9)
