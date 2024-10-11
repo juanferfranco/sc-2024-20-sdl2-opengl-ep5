@@ -22,8 +22,16 @@ glad, al programa en tiempo de ejecución
 
 * En el episodio 5 simplemente se configuró opengl y se cargó en tiempo de ejecución las funciones modernas de opengl que provee el driver
   de la GPU. El archivo es ep5FinalVersion.txt. Considerar que con esta versión se ejecutarán los primeros comandos de opengl, 
-* 
 
 
 
+## Conceptos fundamentales de OpenGL
+
+Concepto fundamental. Leer este material:
+
+[Rendering Pipeline Overview - OpenGL Wiki](https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview)
+
+[OpenGL Context - OpenGL Wiki](https://www.khronos.org/opengl/wiki/OpenGL_Context)
+
+[Debugging Tools - OpenGL Wiki](https://www.khronos.org/opengl/wiki/Debugging_Tools)
 
