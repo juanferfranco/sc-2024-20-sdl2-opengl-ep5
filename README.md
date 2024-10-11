@@ -35,3 +35,9 @@ Concepto fundamental. Leer este material:
 
 [Debugging Tools - OpenGL Wiki](https://www.khronos.org/opengl/wiki/Debugging_Tools)
 
+En el episodio 6 se comienza a discturir sobre aquellos conceptos necesarios para poder renderizar el primer 
+triángulo en pantalla usando opengl. En particular, se muestran tres elementos fundamentales: 
+Vertex Array Object (VAO) y Vertex Buffer Object (VBO). Cada uno 
+de estos objetos son fundamentales para poder renderizar un objeto en pantalla. Los VBO son realmente 
+los datos que se van a renderizar en pantalla, mientras que los VAO son los objetos que contienen la 
+configuración de los VBOs o cómo acceder a los datos de los VBOs.
