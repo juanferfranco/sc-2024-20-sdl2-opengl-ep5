@@ -12,6 +12,11 @@ Luego, se adicionan todas las funciones: ADD ALL
 
 En las opciones se puede dejar seleccionado solo Generate a loader. Presionar generate. En este sitio se baja el .zip y luego se adiciona el archivo .c al proyecto y en la propiedades se incluye el directorio includes (que puede guardarse en la misma carpeta del proyecto). Este directorio contienen los archivos de cabezera de glad. Finalmente, es importante no olvidar incluir en las dependencias del enlazador la biblioteca openGL32.lib que viene con el Windows Kit. Esta bibliteca contienen las entradas para las funciones básicas de openGL en Windows, pero no contiende las funciones modernas de openGL que vienen con los dirvers de la GPU. Estas funciones se deben cargar, precisamente con glad, al programa en tiempo de ejecución 
 
+## Archivos por episodio
+
+* En el episodio 5 simplemente se configuró opengl y se cargó en tiempo de ejecución las funciones modernas de opengl que provee el driver de la GPU. El archivo es ep5FinalVersion.txt
+* 
+
 
 
 
