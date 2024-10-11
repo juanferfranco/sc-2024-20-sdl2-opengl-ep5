@@ -53,3 +53,4 @@ cada pixel que se renderiza en pantalla.
 
 
 
+
