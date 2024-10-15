@@ -51,6 +51,6 @@ cada pixel que se renderiza en pantalla.
 
 ![image](https://github.com/user-attachments/assets/24c7c7f3-9730-4dcb-97c2-8d042657954f)
 
-
+En el episodio 8
 
 
